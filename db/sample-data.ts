@@ -28,7 +28,7 @@ const sampleData = {
       ],
       price: 85.9,
       brand: "Brooks Brothers",
-      rating: 4.2,
+      rating: 3.2,
       numReviews: 8,
       stock: 10,
       isFeatured: true,
